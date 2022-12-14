@@ -4,3 +4,6 @@ body {
 .header {
 	padding: 10px;
 }
+.footer {
+	position:absolute;
+}
